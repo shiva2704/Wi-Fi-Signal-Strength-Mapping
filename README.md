@@ -44,6 +44,8 @@ plt.ylabel("Signal Strength (dBm)")
 plt.title("Wi-Fi Signal Strength at Different Locations")
 plt.show()
 ```
+![Signal Strength across Different Locations](https://github.com/user-attachments/assets/26c32383-8ffc-443f-aba1-e30c849fae36)
+
 
 ## Conclusion
 - The best signal strength was found in the **Hall (Entrence) (-46 dBm)**.
